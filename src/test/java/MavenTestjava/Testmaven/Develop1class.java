@@ -14,12 +14,7 @@ public void develop1method2()
 	System.out.println("Maven selenium test 5");
 	System.out.println("Maven selenium test 5"); // Added new line
 }
-	@Test
-	public void develop1method3()
-	{
-		System.out.println("Maven selenium test 5");
-		System.out.println("Maven selenium test 5"); // Added new line
-	}
+	
 	
 	
 }
