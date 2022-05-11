@@ -9,6 +9,7 @@ public void maventest()
 {
 	System.out.println("Maven selenium test 1");
 	System.out.println("Maven selenium test 1"); //Added new line
+	System.out.println("Maven selenium test 4");//Added new line again
 }
 	@Test
 public void maventest1()

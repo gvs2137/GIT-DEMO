@@ -14,6 +14,7 @@ public void maventest4()
 {
 	System.out.println("Maven selenium test 4");
 	System.out.println("Maven selenium test 4");//Added new line
+	System.out.println("Maven selenium test 4");//Added new line again
 }
 	
 
