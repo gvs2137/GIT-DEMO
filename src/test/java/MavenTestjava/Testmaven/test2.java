@@ -25,9 +25,9 @@ public void maventest5()
 	System.out.println("Maven selenium test 4");//Added new line
 	System.out.println("Maven selenium test 4");//Added new line again
 	System.out.println("Maven selenium test 4");//Added new line again by CG system
-	System.out.println("New addition to check the status");// Adding branching 1
-	System.out.println("New addition to check the status");// Adding branching 2
-	System.out.println("New addition to check the status");// Adding branching 3
+	System.out.println("New addition to check the status");// Adding branching 1 for branching
+	System.out.println("New addition to check the status");// Adding branching 2 for branching
+	System.out.println("New addition to check the status");// Adding branching 3 for branching
 }
 
 }

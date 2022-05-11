@@ -22,6 +22,15 @@ public void newmethod2()
 		
 		
 }
-	
+	@Test
+public void newmethod3() // Adding method 3 for branching in develop1 branch
+{
+		System.out.println("New addition to check the status");
+		System.out.println("New addition to check the status");// Adding branching 1 for branching
+		System.out.println("New addition to check the status");// Adding branching 2 for branching
+		System.out.println("New addition to check the status");// Adding branching 3 for branching
+		
+		
+}
 
 }
