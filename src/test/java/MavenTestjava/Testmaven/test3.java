@@ -16,6 +16,11 @@ System.out.println(sum);
 public void newmethod2()
 {
 		System.out.println("New addition to check the status");
+		System.out.println("New addition to check the status");// Adding branching 1 for branching
+		System.out.println("New addition to check the status");// Adding branching 2 for branching
+		System.out.println("New addition to check the status");// Adding branching 3 for branching
+		
+		
 }
 	
 
