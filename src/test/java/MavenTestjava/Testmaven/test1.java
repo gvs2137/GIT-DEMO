@@ -21,5 +21,25 @@ public void maventest1()
 public void maventest4() // Added new method
 {
 	System.out.println("Maven selenium test 2");
+	System.out.println("New addition to check the status");// Adding branching 1 for branching
+	System.out.println("New addition to check the status");// Adding branching 2 for branching
+	System.out.println("New addition to check the status");// Adding branching 3for branching
+}
+	
+	@Test
+public void maventest5() // Added new method for branching
+{
+	System.out.println("Maven selenium test 2");
+	System.out.println("New addition to check the status");// Adding branching 1for branching
+	System.out.println("New addition to check the status");// Adding branching 2
+	System.out.println("New addition to check the status");// Adding branching 3
+}
+	@Test
+public void maventest6() // Added new method for branching
+{
+	System.out.println("Maven selenium test 2");
+	System.out.println("New addition to check the status");// Adding branching 1
+	System.out.println("New addition to check the status");// Adding branching 2
+	System.out.println("New addition to check the status");// Adding branching 3
 }
 }
