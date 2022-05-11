@@ -15,7 +15,7 @@ System.out.println(sum);
 	@Test
 public void newmethod2()
 {
-	
+		System.out.println("New addition to check the status");
 }
 	
 
